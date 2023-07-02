@@ -9,6 +9,7 @@ id = efc12f95-91de-44a3-83e3-d1b9229b3683
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"27040461-21338cf2-6ad0-41f6-93eb-80d1aa8742bc","path":"TrelloAPI.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
